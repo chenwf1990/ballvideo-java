@@ -1,0 +1,33 @@
+
+asquid:S1155n">Use isEmpty() to check whether the collection is empty or not.(â×—˜ÿÿÿÿÿ8ÕË¥ª‡.
+Gsquid:S2140\")Use "java.util.Random.nextInt()" instead.(ëœ˜á8ÕË¥ª‡.
+wsquid:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶÷§ˆ8ÕË¥ª‡.
+ksquid:S1192^"HDefine a constant instead of duplicating this literal "message" 5 times.(èÃùÆùÿÿÿÿ8ÕË¥ª‡.
+Osquid:S1172j",Remove this unused method parameter "smsNo".(€‘ûúÿÿÿÿ8ÕË¥ª‡.
+Ssquid:S3252×";Use static access with "tool.util.StringUtil" for "isNull".(”êı½
+qsquid:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶÷§ˆ
+csquid:S3252‘"KUse static access with "org.apache.commons.lang3.StringUtils" for "equals".(û›š“
+lsquid:S1192–"MDefine a constant instead of duplicating this literal "successCount" 4 times.(¼½ªè8ÕË¥ª‡.
+isquid:S3252ş"LUse static access with "org.apache.commons.lang3.StringUtils" for "isBlank".(ØÀâùÿÿÿÿ
+]squid:S3252Ó"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(Åô
+Xsquid:S3252Ú";Use static access with "tool.util.StringUtil" for "isNull".(ü®‰½øÿÿÿÿ
+fsquid:S1192<"HDefine a constant instead of duplicating this literal "smsType" 3 times.(”…«ç8ÕË¥ª‡.
+Ssquid:S3252Ó";Use static access with "tool.util.StringUtil" for "isNull".(Åô
+osquid:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.( çöŞúÿÿÿÿ
+dsquid:S1192;"FDefine a constant instead of duplicating this literal "phone" 3 times.(ÚÚ‚Ò8ÕË¥ª‡.
+xsquid:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(êêşï8¸¨êª‡.
+Gsquid:S1066"/Merge this if statement with the enclosing one.(ê‚»
+isquid:S3252ş"LUse static access with "org.apache.commons.lang3.StringUtils" for "isBlank".(ØÀâùÿÿÿÿ
+Zsquid:S3252Ô";Use static access with "tool.util.StringUtil" for "isNull".(ü¹€ª8µôš«õ-
+fsquid:S1192"GDefine a constant instead of duplicating this literal "result" 3 times.(Ûéù÷8ÕË¥ª‡.
+Wsquid:S3252Ç"?Use static access with "tool.util.StringUtil" for "isNotBlank".(´±Î 
+qsquid:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(®Ø‡Ú
+osquid:S1192`"LDefine a constant instead of duplicating this literal "ï¼Œ typeï¼š" 3 times.(Ù³ëµÿÿÿÿÿ8ÕË¥ª‡.
+]squid:S3252Ä"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(ô³Ÿ¸
+isquid:S3252ş"LUse static access with "org.apache.commons.lang3.StringUtils" for "isBlank".(ØÀâùÿÿÿÿ
+bsquid:S3252‹"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(ì“¥ûÿÿÿÿ
+lsquid:S3252œ"OUse static access with "org.apache.commons.lang3.StringUtils" for "isNotBlank".(ËÿÿÉúÿÿÿÿ
+{squid:S1192`"XDefine a constant instead of duplicating this literal "å‘é€çŸ­ä¿¡ï¼Œphoneï¼š" 3 times.(Ù³ëµÿÿÿÿÿ8ÕË¥ª‡.
+dsquid:S3252Ô"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(ü¹€ª8µôš«õ-
+Xsquid:S2864…"4Iterate over the "entrySet" instead of the "keySet".(¤ıóşıÿÿÿÿ8ÕË¥ª‡.
+Jsquid:S1135ù"2Complete the task associated to this TODO comment.(¿šÊŞ

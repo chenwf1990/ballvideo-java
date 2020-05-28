@@ -1,0 +1,102 @@
+server:
+  port: 8101
+  tomcat:
+    uri-encoding: UTF-8
+    max-threads: 200
+    max-connections: 10000
+spring:
+  application:
+    name: ballVideo
+  datasource:
+    url: jdbc:mysql://112.74.179.254:3306/ballvideo_dev?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&zeroDateTimeBehavior=convertToNull&serverTimezone=Asia/Shanghai
+    username: ballvideo_java
+    password: e7I8vpV7H6FZohOj
+    driverClassName: com.mysql.cj.jdbc.Driver
+    hikari:
+      connectionTimeout: 180000
+      maximumPoolSize: 1500
+      maxLifetime: 60000
+      minimumIdle: 20
+      validationTimeout: 8000
+      idleTimeout: 50000
+  secondDatasource:
+    url: jdbc:mysql://112.74.179.254:3306/ballvideoadv?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&zeroDateTimeBehavior=convertToNull&serverTimezone=Asia/Shanghai
+    username: shixiaohua
+    password: KZQyXeC5mVaF65Tg
+    driverClassName: com.mysql.cj.jdbc.Driver
+    hikari:
+      connectionTimeout: 180000
+      maximumPoolSize: 1500
+      maxLifetime: 60000
+      minimumIdle: 20
+      validationTimeout: 8000
+      idleTimeout: 50000
+  thirdDataSource:
+    url: jdbc:mysql://112.74.179.254:3306/shangbao_dev?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&zeroDateTimeBehavior=convertToNull&serverTimezone=Asia/Shanghai
+    username: shangbao_java
+    password: dly7xcRJVLcKya50
+    driverClassName: com.mysql.cj.jdbc.Driver
+    hikari:
+      connectionTimeout: 180000
+      maximumPoolSize: 1500
+      maxLifetime: 60000
+      minimumIdle: 20
+      validationTimeout: 8000
+      idleTimeout: 50000
+  fourthDatasource:
+    url: jdbc:mysql://112.74.179.254:3306/channel_tool_mofang?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&zeroDateTimeBehavior=convertToNull&serverTimezone=Asia/Shanghai
+    username: ballvideo_java
+    password: e7I8vpV7H6FZohOj
+    driverClassName: com.mysql.cj.jdbc.Driver
+    hikari:
+      connectionTimeout: 180000
+      maximumPoolSize: 1500
+      maxLifetime: 60000
+      minimumIdle: 20
+      validationTimeout: 8000
+      idleTimeout: 50000
+  redis:
+    host: 112.74.179.254
+    port: 6379
+    password: e8cFnj3CoWZdUFyXg8Dkv9Vp66c=
+    timeout: 15000
+    database: 1
+    jedis:
+      pool:
+        max-active: 10000
+        max-idle: 100
+        min-idle: 20
+        max-wait: 3000
+    #上报redis数据源
+    shangbaoDatabase: 1
+    shangbaoHost: 112.74.179.254
+    shangbaoPort: 6379
+    shangbaoPassword: e8cFnj3CoWZdUFyXg8Dkv9Vp66c=
+    shangbaoTimeOut: 15000
+  session:
+    store-type: redis
+  data:
+    elasticsearch:
+      cluster-name: ballVideo
+      cluster-nodes: dev.es.100.mgshop.shop:9300
+  rabbitmq:
+    addresses: 112.74.179.254
+    username: admin
+    password: nx8260529
+    open: false
+
+  jpa:
+    database: mysql
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 100MB
+      max-request-size: 100MB
+logging:
+  config: classpath:log4j2/Log4j2-local.xml
+  level:
+    com.miguan.ballvideo.mapper: debug

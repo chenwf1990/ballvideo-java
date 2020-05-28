@@ -1,0 +1,11 @@
+
+jsquid:S3252L"LUse static access with "org.apache.commons.lang3.StringUtils" for "isBlank".(éùºÎ8üŞï•ò-
+jsquid:S3252."LUse static access with "org.apache.commons.lang3.StringUtils" for "isBlank".(œèàÖ8Ÿ‰¾§õ-
+msquid:S3252:"OUse static access with "org.apache.commons.lang3.StringUtils" for "isNotBlank".(¹Õ²8üŞï•ò-
+jsquid:S3252L"LUse static access with "org.apache.commons.lang3.StringUtils" for "isBlank".(éùºÎ8üŞï•ò-
+nsquid:S3252Z"KUse static access with "org.apache.commons.lang3.StringUtils" for "equals".(Õ¢¶úÿÿÿÿ8üŞï•ò-
+Wsquid:S3252^"9Use static access with "tool.util.DateUtil" for "getNow".(Êëù‰8üŞï•ò-
+nsquid:S3252Z"KUse static access with "org.apache.commons.lang3.StringUtils" for "equals".(Õ¢¶úÿÿÿÿ8üŞï•ò-
+wsquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(®Ø‡Ú8üŞï•ò-
+isquid:S1192/"FDefine a constant instead of duplicating this literal "state" 3 times.(¢ıøøÿÿÿÿ8üŞï•ò-
+Lsquid:S1066V"/Merge this if statement with the enclosing one.(ˆĞÑ8üŞï•ò-

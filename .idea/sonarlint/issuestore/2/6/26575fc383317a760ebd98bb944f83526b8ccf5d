@@ -1,0 +1,4 @@
+
+ksquid:S3252"OUse static access with "org.apache.commons.lang3.StringUtils" for "isNotBlank".(ñšÓÎüÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Àö¦
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ê¼ìúÿÿÿÿ

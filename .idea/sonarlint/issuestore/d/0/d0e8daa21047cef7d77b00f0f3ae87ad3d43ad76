@@ -1,0 +1,11 @@
+
+8squid:S1643+"Use a StringBuilder instead.(ˆÒÏÝýÿÿÿÿ
+nsquid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÆÖíýÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ùÆô“úÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à®Ô²
+ksquid:S00100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÆÖíýÿÿÿÿ
+fsquid:S001000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß£†ñ
+usquid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïó²ñþÿÿÿÿ
+Csquid:S1068"'Remove this unused "url" private field.(“¦¥Ìÿÿÿÿÿ
+Isquid:S1068"-Remove this unused "className" private field.(“´¤àøÿÿÿÿ

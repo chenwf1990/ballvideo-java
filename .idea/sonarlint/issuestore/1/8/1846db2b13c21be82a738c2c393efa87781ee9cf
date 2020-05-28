@@ -1,0 +1,7 @@
+
+Usquid:S1444"2Make this "public static NO_RECOMMEND" field final(„ûË®üÿÿÿÿ8‹‹ñ’ù-
+zsquid:S3008"WRename this field "NO_RECOMMEND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ûË®üÿÿÿÿ8‹‹ñ’ù-
+wsquid:S3008"TRename this field "RECOMMEND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒïøÙşÿÿÿÿ8‹‹ñ’ù-
+’"squid:ClassVariableVisibilityCheck"XMake NO_RECOMMEND a static final constant or non-public and provide accessors if needed.(„ûË®üÿÿÿÿ8‹‹ñ’ù-
+Rsquid:S1444"/Make this "public static RECOMMEND" field final(ŒïøÙşÿÿÿÿ8‹‹ñ’ù-
+"squid:ClassVariableVisibilityCheck"UMake RECOMMEND a static final constant or non-public and provide accessors if needed.(ŒïøÙşÿÿÿÿ8‹‹ñ’ù-

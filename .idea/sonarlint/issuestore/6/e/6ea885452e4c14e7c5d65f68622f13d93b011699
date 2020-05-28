@@ -1,0 +1,12 @@
+
+asquid:S1155">Use isEmpty() to check whether the collection is empty or not.(±Œ° ÿÿÿÿÿ8Ó£ééø-
+dsquid:S1192]"FDefine a constant instead of duplicating this literal "title" 4 times.(­ÅöÂ8Ó£ééø-
+Zsquid:S3655x"7Call "Optional#isPresent()" before accessing the value.(ÉŠß§úÿÿÿÿ8Ó£ééø-
+[squid:S3655¤"<Call "videoOptional.isPresent()" before accessing the value.(Šª¯„8Ó£ééø-
+€squid:S1488^"]Immediately return this expression instead of assigning it to the temporary variable "items".(ÂÂĞ‰úÿÿÿÿ8Ó£ééø-
+xsquid:S001166"TRename this field "video_sql" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÅ³Äıÿÿÿÿ8áıçø-
+Gsquid:S2789£"(Remove this null-check of an "Optional".(İºë§8Ó£ééø-
+|squid:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(áäñ»ÿÿÿÿÿ8Ó£ééø-
+wsquid:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç¦»³8Ó£ééø-
+nsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(ï•İ­ıÿÿÿÿ8Ó£ééø-
+qsquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ò‹Œ8Ó£ééø-

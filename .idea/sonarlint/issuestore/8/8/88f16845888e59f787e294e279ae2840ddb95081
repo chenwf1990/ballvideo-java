@@ -1,0 +1,11 @@
+
+csquid:S3252O"LUse static access with "org.apache.commons.lang3.StringUtils" for "isBlank".(œ×Ş¹
+asquid:S3252P"EUse static access with "tool.util.DateUtil" for "DATEFORMAT_STR_016".(ûàéÿÿÿÿÿ
+Qsquid:S3252Z":Use static access with "tool.util.DateUtil" for "dateStr".(Á©ªØ
+Vsquid:S3252P":Use static access with "tool.util.DateUtil" for "dateStr".(ûàéÿÿÿÿÿ
+Usquid:S3252N"9Use static access with "tool.util.DateUtil" for "getNow".(™ïÍ›øÿÿÿÿ
+=squid:S1075Z"&Remove this hard-coded path-delimiter.(Á©ªØ
+\squid:S3252Z"EUse static access with "tool.util.DateUtil" for "DATEFORMAT_STR_013".(Á©ªØ
+=squid:S1075Z"&Remove this hard-coded path-delimiter.(Á©ªØ
+Nsquid:S2589["7Remove this expression which always evaluates to "true"(œø
+fsquid:S3027M"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(£Ü“øÿÿÿÿ

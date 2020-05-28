@@ -1,0 +1,50 @@
+
+Fsquid:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜•ô-
+usquid:S00117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»™ïûÿÿÿÿ8˜•ô-
+hsquid:S2259ª"IA "NullPointerException" could be thrown; "pushArticle" is nullable here.(·´¹ï8˜•ô-
+Fsquid:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜•ô-
+‹squid:S1192b"hDefine a constant instead of duplicating this literal "com.mg.xyvideo.module.main.MainActivity" 3 times.(Ò™ê°ùÿÿÿÿ8˜•ô-
+ksquid:S1192>"MDefine a constant instead of duplicating this literal "xy_typeValue" 4 times.(ìÀÃş8˜•ô-
+wsquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÉñi8˜•ô-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Á£Æ8˜•ô-
+bsquid:CallToDeprecatedMethod$"3Remove this use of "description"; it is deprecated.(ç‚Ü8˜•ô-
+vsquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê´ï üÿÿÿÿ8˜•ô-
+vsquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ƒïÒşÿÿÿÿ8˜•ô-
+|squid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü´¶Àùÿÿÿÿ8˜•ô-
+gsquid:S2259x"IA "NullPointerException" could be thrown; "pushArticle" is nullable here.(·´¹ï8˜•ô-
+osquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(ëª…Ïúÿÿÿÿ8˜•ô-
+|squid:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü´¶Àùÿÿÿÿ8˜•ô-
+@squid:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+osquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(ë‚…úÿÿÿÿ8˜•ô-
+Usquid:S1135e"2Complete the task associated to this TODO comment.(ÆŠğ€şÿÿÿÿ8˜•ô-
+vsquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºå›Ôşÿÿÿÿ8˜•ô-
+Ysquid:S1141ß"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8˜•ô-
+}squid:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü´¶Àùÿÿÿÿ8˜•ô-
+Ysquid:S1854½"5Remove this useless assignment to local variable "l".(‹Ñõ¯ùÿÿÿÿ8˜•ô-
+bsquid:S1155Ë">Use isEmpty() to check whether the collection is empty or not.(¾Îßàıÿÿÿÿ8˜•ô-
+€squid:S1192F"bDefine a constant instead of duplicating this literal "å‘é€å¤±è´¥ï¼Œè¯·è”ç³»ç®¡ç†å‘˜" 4 times.(˜¬êÀ8˜•ô-
+vsquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê´ï üÿÿÿÿ8˜•ô-
+usquid:S00117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ç²Æúÿÿÿÿ8˜•ô-
+lsquid:S2259U"IA "NullPointerException" could be thrown; "pushArticle" is nullable here.(éÇ¥àüÿÿÿÿ8˜•ô-
+vsquid:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ú¥áîûÿÿÿÿ8˜•ô-
+usquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢õ™Şıÿÿÿÿ8˜•ô-
+rsquid:S1192a"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 3 times.(Ì×ı8˜•ô-
+Ysquid:S1854„"5Remove this useless assignment to local variable "l".(‹Ñõ¯ùÿÿÿÿ8˜•ô-
+lsquid:S2259="IA "NullPointerException" could be thrown; "pushArticle" is nullable here.(éÇ¥àüÿÿÿÿ8˜•ô-
+jsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(ëÚ¶ì8˜•ô-
+Ysquid:S1141ó"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8˜•ô-
+Qsquid:S1135É"2Complete the task associated to this TODO comment.(§â‰ˆ8˜•ô-
+wsquid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÉñi8˜•ô-
+Gsquid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜•ô-
+jsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(õ¬Ú8˜•ô-
+ksquid:S1192="HDefine a constant instead of duplicating this literal "xy_type" 4 times.(éÇ¥àüÿÿÿÿ8˜•ô-
+isquid:S1192Ò"JDefine a constant instead of duplicating this literal "æ¨é€ID:" 3 times.(©Ÿß¯8˜•ô-
+Ysquid:S1141Ê"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8˜•ô-
+usquid:S00117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·šªüÿÿÿÿ8˜•ô-
+|squid:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü´¶Àùÿÿÿÿ8˜•ô-
+osquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(ÙÒïõüÿÿÿÿ8˜•ô-
+osquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(×Ï²ôûÿÿÿÿ8˜•ô-
+tsquid:S1192`"QDefine a constant instead of duplicating this literal "uPush_expireTime" 3 times.(Ú»™ïûÿÿÿÿ8˜•ô-
+†squid:S1192:"hDefine a constant instead of duplicating this literal "å½“å‰æ²¡æœ‰ç¬¦åˆæ¡ä»¶çš„æ¨é€æ•°æ®" 4 times.(È­ğã8˜•ô-
+psquid:S00117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´”¡ø8˜•ô-
+psquid:S00117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘“¶ì8˜•ô-

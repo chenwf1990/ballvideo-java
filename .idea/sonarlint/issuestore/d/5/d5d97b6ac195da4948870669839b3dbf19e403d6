@@ -1,0 +1,15 @@
+
+Xsquid:CallToDeprecatedMethodE"0Remove this use of "SQLQuery"; it is deprecated.(°–‡Ž
+dsquid:CallToDeprecatedMethodV"<Remove this use of "setResultTransformer"; it is deprecated.(ÅÇÍè
+lsquid:S2259e"PA "NullPointerException" could be thrown; "createNativeQuery()" can return null.(ñƒµ‰ûÿÿÿÿ
+Xsquid:CallToDeprecatedMethodV"0Remove this use of "SQLQuery"; it is deprecated.(ÅÇÍè
+isquid:CallToDeprecatedMethodN"<Remove this use of "setResultTransformer"; it is deprecated.(ÂšÖ”ýÿÿÿÿ
+tsquid:UselessImportCheck"IRemove this unused import 'org.hibernate.query.internal.NativeQueryImpl'.(ÏÝ¬±8ÙíÒª‡.
+lsquid:S2259`"PA "NullPointerException" could be thrown; "createNativeQuery()" can return null.(»¸Óµüÿÿÿÿ
+gsquid:S2259\"PA "NullPointerException" could be thrown; "createNativeQuery()" can return null.(Ì™“
+Vsquid:S2259E"?A "NullPointerException" could be thrown; "q" is nullable here.(°–‡Ž
+Vsquid:S2259V"?A "NullPointerException" could be thrown; "q" is nullable here.(ÅÇÍè
+dsquid:CallToDeprecatedMethodE"<Remove this use of "setResultTransformer"; it is deprecated.(°–‡Ž
+[squid:S2259N"?A "NullPointerException" could be thrown; "q" is nullable here.(ÂšÖ”ýÿÿÿÿ
+Esquid:EmptyStatementUsageCheckM"Remove this empty statement.(¢›Ò
+]squid:CallToDeprecatedMethodN"0Remove this use of "SQLQuery"; it is deprecated.(ÂšÖ”ýÿÿÿÿ

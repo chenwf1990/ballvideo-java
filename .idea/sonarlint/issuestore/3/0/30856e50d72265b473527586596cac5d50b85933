@@ -1,0 +1,10 @@
+
+bsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(¹´Ý³
+Nsquid:S18541"8Remove this useless assignment to local variable "test".(ß¼¨
+?squid:S14811")Remove this unused "test" local variable.(ß¼¨
+?squid:S1148)"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Rsquid:S18545"6Remove this useless assignment to local variable "tt".(º»ýŽúÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(çÞØèýÿÿÿÿ
+Csquid:S14815"'Remove this unused "tt" local variable.(º»ýŽúÿÿÿÿ
+Fsquid:S00108'")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ
+bsquid:S21843"FCast one of the operands of this multiplication operation to a "long".(ð±³þÿÿÿÿ

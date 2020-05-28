@@ -1,0 +1,12 @@
+
+xsquid:S00116X"TRename this field "video_sql" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¦ãõøÿÿÿÿ8Ò¡ñæ.
+}squid:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(›§ïºúÿÿÿÿ8¼ÆÖŒ.
+Jsquid:S1168Ò"+Return an empty collection instead of null.(¥¹ï8¼ÆÖŒ.
+qsquid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ò‹Œ8¼ÆÖŒ.
+}squid:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(áäñ»ÿÿÿÿÿ8Ò¡ñæ.
+vsquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(èÿûÀÿÿÿÿÿ8¼ÆÖŒ.
+}squid:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(û‹âèúÿÿÿÿ8¼ÆÖŒ.
+esquid:S1192¾"FDefine a constant instead of duplicating this literal "title" 3 times.(ÇÇĞ¶8¼ÆÖŒ.
+esquid:S1192Â"FDefine a constant instead of duplicating this literal "catId" 3 times.(Â¹Š8¼ÆÖŒ.
+bsquid:S1155æ">Use isEmpty() to check whether the collection is empty or not.(±Œ° ÿÿÿÿÿ8¼ÆÖŒ.
+jsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(¦û‚¦8¼ÆÖŒ.

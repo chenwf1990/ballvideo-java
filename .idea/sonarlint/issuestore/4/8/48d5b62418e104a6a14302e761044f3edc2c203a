@@ -1,0 +1,6 @@
+
+nsquid:S37764"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(”Õ°ëÿÿÿÿÿ
+Tsquid:S1155S">Use isEmpty() to check whether the collection is empty or not.(²ú
+fsquid:S3252b"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¾Éúø
+]squid:S1192;"FDefine a constant instead of duplicating this literal "state" 3 times.(”Ÿè¾
+csquid:S1192A"GDefine a constant instead of duplicating this literal "userId" 3 times.(Èåáşÿÿÿÿ

@@ -1,0 +1,10 @@
+
+~squid:S1149é"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Áúƒ8Ş¶À….
+nsquid:S1192T"KDefine a constant instead of duplicating this literal "searchData" 3 times.(…ˆ„©ûÿÿÿÿ8Åâœ¯.
+osquid:S1192\"LDefine a constant instead of duplicating this literal "totalWeight" 4 times.(´ğªÅøÿÿÿÿ8Åâœ¯.
+}squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "videos".(Ùæÿ8Åâœ¯.
+{squid:S00116("WRename this field "default_page" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å•Öôüÿÿÿÿ8Åâœ¯.
+|squid:S00116*"]Rename this field "default_max_weight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÔ¿8Åâœ¯.
+}squid:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù×™úÿÿÿÿ8Åâœ¯.
+isquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(“¿ş™8Åâœ¯.
+isquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(ü«§8Åâœ¯.

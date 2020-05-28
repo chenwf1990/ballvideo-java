@@ -1,0 +1,11 @@
+
+@squid:S2140C")Use "java.util.Random.nextInt()" instead.(Ùë‚—
+8squid:S1170%"!Make this final field static too.(‘Óœù
+€squid:S1488>"dImmediately return this expression instead of assigning it to the temporary variable "pushArticles".(¥Øáßıÿÿÿÿ
+_squid:S2259X"CA "NullPointerException" could be thrown; "parse" is nullable here.(îéª‘øÿÿÿÿ
+msquid:S1192y"JDefine a constant instead of duplicating this literal "æ¨é€ID:" 4 times.(è£ÉŸıÿÿÿÿ8«âœ¯.
+fsquid:S00112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(ÇÑšî8«âœ¯.
+|squid:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñû¼–ûÿÿÿÿ8«âœ¯.
+}squid:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñû¼–ûÿÿÿÿ8«âœ¯.
+¥%squid:RedundantThrowsDeclarationCheckĞ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÇÑšî8«âœ¯.
+Psquid:S1172Ğ"1Remove this unused method parameter "expireTime".(ÇÑšî8«âœ¯.

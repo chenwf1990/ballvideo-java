@@ -1,0 +1,30 @@
+
+nsquid:S3252€"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8ø¶ò….
+esquid:S3252€"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(‹ÃØÓ8ø¶ò….
+bsquid:S1155Ú">Use isEmpty() to check whether the collection is empty or not.(ë°õúüÿÿÿÿ8ø¶ò….
+ksquid:S1192í"LDefine a constant instead of duplicating this literal "queryNumber" 7 times.(¯©¹Ó8ø¶ò….
+qsquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃŸË—8ø¶ò….
+qsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÂ¯Ü8ø¶ò….
+osquid:S1192ô"KDefine a constant instead of duplicating this literal "appVersion" 3 times.(Ÿ‰—°ûÿÿÿÿ8ø¶ò….
+nsquid:S3252¨"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8ø¶ò….
+nsquid:S3252Î"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8ø¶ò….
+Nsquid:S1066ú"/Merge this if statement with the enclosing one.(Ğ¾ñÆ8ø¶ò….
+qsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¯°ÿ8ø¶ò….
+nsquid:S3252Ñ"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8ø¶ò….
+ksquid:S1192s"HDefine a constant instead of duplicating this literal "userId" 21 times.(¢¡ì¢şÿÿÿÿ8ø¶ò….
+msquid:S3252u"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8ø¶ò….
+nsquid:S3252§"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8ø¶ò….
+osquid:S1192ó"PDefine a constant instead of duplicating this literal "marketChannelId" 3 times.(Ù©Âü8ø¶ò….
+isquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(Èˆõ48ø¶ò….
+fsquid:S2095Ñ"BUse try-with-resources or close this "Page" in a "finally" clause.(ıºäàøÿÿÿÿ8ø¶ò….
+bsquid:S1155á">Use isEmpty() to check whether the collection is empty or not.(ôí©üÿÿÿÿ8ø¶ò….
+nsquid:S3252ƒ"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8ø¶ò….
+nsquid:S3252¥"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8ø¶ò….
+vsquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ãùÿÿÿÿ8ÄØ†Ş.
+fsquid:S2095¹"BUse try-with-resources or close this "Page" in a "finally" clause.(ıºäàøÿÿÿÿ8ø¶ò….
+xsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÂ¢8ø¶ò….
+]squid:S1155µ">Use isEmpty() to check whether the collection is empty or not.(Öƒõ‰8ø¶ò….
+qsquid:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(’‚»İ8ø¶ò….
+nsquid:S3252ª"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8ø¶ò….
+isquid:S3252ı"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(çÇÑ„ıÿÿÿÿ8ø¶ò….
+esquid:S1192ì"FDefine a constant instead of duplicating this literal "catId" 5 times.(ıûÌ8ø¶ò….

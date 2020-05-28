@@ -1,0 +1,12 @@
+
+?squid:S14812"(Remove this unused "git" local variable.(«¢Çô
+Hsquid:S14813",Remove this unused "gitList" local variable.(İ° ıÿÿÿÿ
+@squid:S14816")Remove this unused "git3" local variable.(Ã¥İ
+hsquid:S11923"LDefine a constant instead of duplicating this literal "18502511111" 4 times.(İ° ıÿÿÿÿ
+Tsquid:S18544"8Remove this useless assignment to local variable "git1".(ü°›†øÿÿÿÿ
+Wsquid:S18543";Remove this useless assignment to local variable "gitList".(İ° ıÿÿÿÿ
+Tsquid:S18545"8Remove this useless assignment to local variable "git2".(æİ•²şÿÿÿÿ
+Esquid:S14814")Remove this unused "git1" local variable.(ü°›†øÿÿÿÿ
+Osquid:S18546"8Remove this useless assignment to local variable "git3".(Ã¥İ
+Esquid:S14815")Remove this unused "git2" local variable.(æİ•²şÿÿÿÿ
+Nsquid:S18542"7Remove this useless assignment to local variable "git".(«¢Çô

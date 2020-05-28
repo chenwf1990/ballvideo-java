@@ -1,0 +1,15 @@
+
+msquid:S3252^"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8Ğü›‹ô-
+Isquid:S1481Y"&Remove this unused "i" local variable.(²ö÷‡şÿÿÿÿ8Ğü›‹ô-
+asquid:S1155|">Use isEmpty() to check whether the collection is empty or not.(Ğ’šØıÿÿÿÿ8Ğü›‹ô-
+msquid:S3252R"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8Ğü›‹ô-
+msquid:S3252s"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8Ğü›‹ô-
+Isquid:S1481n"&Remove this unused "i" local variable.(²ö÷‡şÿÿÿÿ8Ğü›‹ô-
+msquid:S3252l"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8Ğü›‹ô-
+Xsquid:S1854n"5Remove this useless assignment to local variable "i".(²ö÷‡şÿÿÿÿ8Ğü›‹ô-
+msquid:S3252g"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8Ğü›‹ô-
+gsquid:S5361å"HReplace this call to "replaceAll()" by a call to the "replace()" method.(™’Öì8Ğü›‹ô-
+Bsquid:S2119ñ"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8Ğü›‹ô-
+msquid:S3252W"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Íâ¥¢8Ğü›‹ô-
+Xsquid:S1854Y"5Remove this useless assignment to local variable "i".(²ö÷‡şÿÿÿÿ8Ğü›‹ô-
+Msquid:S5413£")Verify that "remove()" is used correctly.(¾«­ùÿÿÿÿ8Ğü›‹ô-
